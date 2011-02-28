@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="hello">Hello World, CloudFingerPaint!</string>
-    <string name="app_name">CloudFingerPaint</string>
+    <string name="app_name">Cloud Finger Paint</string>
+    <string name="app_name_mini">CFP</string>
 </resources>
